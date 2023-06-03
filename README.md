@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Sint.
+# 💫 About Me:
+⚡ Fun fact: I eat chicken a lot.
 
-<!--
-**sint18/sint18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sint18&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&langs_count=8)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sint18&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sint18&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sint18&icon=0&color=6)](https://visitcount.itsvg.in)
