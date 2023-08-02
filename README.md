@@ -8,12 +8,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sint18&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&langs_count=8)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sint18&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sint18&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sint18&langs_count=10&count_private=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sint18&hide_border=false)<br/>
 
 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sint18&icon=0&color=6)](https://visitcount.itsvg.in)
