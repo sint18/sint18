@@ -1,6 +1,6 @@
 ### Hi, I'm Sint.
 # 💫 About Me:
-⚡ Aspiring Software Engineer | Web Developer proficient in Python, JavaScript and PostgreSQL.
+⚡ Junior Software Engineer | Web Developer proficient in Python, Next.js, React, TypeScript and PostgreSQL.
 
 # 💻 Tech Stack:
 
